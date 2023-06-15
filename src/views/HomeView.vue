@@ -51,6 +51,38 @@
       </div>
       </div>
       </div>
+
+      
+      </div>
+    </div>
+
+    <div class="carousel-item">
+      <div class="container" >
+        <div class="cont-carou-all" >
+          <div class="col-4">
+        <img class="d-block w-30" src="../assets/girl.png" alt="First slide" style="max-width: 107%;max-height: 107%;">
+      </div>
+      <div class="col-4 h-main-hea">
+        <h1>
+        Big Sale<br>
+        Offer
+       </h1>
+       <div class="buttonnn">
+       <button class="buy-n btn">Buy Now</button>
+       <button class="all-butt btn">Contact Us</button>
+      </div>
+      </div>
+      <div class="col-4 last2" >
+    <div class="mob-ph" >
+       <img class="d-block w-30 " src="../assets/Mobile-Phone-PNG-HD.png" alt="First slide" style="max-height: 20%;max-width: 61%;">
+      </div>
+      <div>
+       <img class="d-block w-30" src="../assets/Desktop-Computer-Download-PNG-Image.png" alt="First slide" style="max-height: 20%;max-width: 115%;">
+      </div>
+      </div>
+      </div>
+
+      
       </div>
     </div>
     <!--
@@ -351,7 +383,9 @@ padding: 0 5% 0 5%;
 }
 .all-i-ic{
   display: flex;
-    align-items: center;width: 25%;
+    align-items: center;
+    width: 40%;
+    justify-content: end;
 }
 .all-i-ic i{
   font-size: 130%;
